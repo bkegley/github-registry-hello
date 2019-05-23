@@ -1,0 +1,12 @@
+{
+  "name": "@bkgley/github-registry-hello",
+  "version": "1.0.0",
+  "description": "Just a hello world testing GitHub package registry",
+  "main": "index.js",
+  "repository": "https://github.com/bkegley/github-registry-hello.git",
+  "author": "Bryan Kegley <hi@bryankegley.me>",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
